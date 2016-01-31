@@ -46,7 +46,7 @@ html {
 }
 
 body {
-  background-color: #21657C;
+  background-color: #215c70;
   text-align: center;
 }
 
@@ -62,7 +62,7 @@ div {
 
 a {
   color: #fff;
-  background: #2C7D98;
+  background: #407384;
   font-size: 1.75em;
   border-radius: 7px;
   text-align: center;
@@ -76,7 +76,7 @@ a {
 }
 
 a:hover {
-  background: #37A2C5;
+  background: #2C7D98;
 }
 
 a span {
